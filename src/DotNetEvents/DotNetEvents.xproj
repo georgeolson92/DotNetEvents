@@ -14,6 +14,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
+    <ApplicationInsightsResourceId>/subscriptions/c1e106a0-d2dc-443e-97d2-fce92aadfece/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/DotNetEvents</ApplicationInsightsResourceId>
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
